@@ -1,3 +1,3 @@
 # IBM Robotic Tape Library
 
-## ONGC Internship Project 2014
+## ONGC Summer Internship Project 2014
